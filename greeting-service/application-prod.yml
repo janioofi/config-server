@@ -11,4 +11,4 @@ management:
 
 greeting-service:
   greeting: "Pronto"
-  default-value: "Mondo"
+  default-value: "Mono"
